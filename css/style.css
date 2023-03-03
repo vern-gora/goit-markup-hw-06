@@ -775,6 +775,11 @@ body {
   border: none;
 }
 
+.policy-link {
+  color: var(--primary-brand-color);
+  text-decoration: underline;
+}
+
 .modal-btn-wrap {
   display: flex;
   justify-content: center;
